@@ -21,10 +21,10 @@ function generatePassword(){
    return window.alert("invalid response")}
  
    if(charcount < 128 || charcount > 8 ) 
-     { var upperCase = window.confirm("Would you like Uppercase characters in your password? Type 1 for yes, type 0 for no.")
-     var lowerCase = window.confirm("Would you like Lowercase characters in your password?  Type 1 for yes, type 0 for no. ")
-    var numbers = window.confirm("Would you like numeric characters in your password? Type 1 for yes, type 0 for no.")
-     var specialCharacter = window.confirm("Would you like special characters in your password? Type 1 for yes, type 0 for no.")
+     { var upperCase = window.confirm("Would you like Uppercase characters in your password? Click Yes for yes, click cancel for no.")
+     var lowerCase = window.confirm("Would you like Lowercase characters in your password?  Click Yes for yes, click cancel for no. ")
+    var numbers = window.confirm("Would you like numeric characters in your password? Click Yes for yes, click cancel for no.")
+     var specialCharacter = window.confirm("Would you like special characters in your password? Click for yes, click cancel for no.")
 
    }
    if(upperCase) {
