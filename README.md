@@ -14,6 +14,8 @@ Javascript
  # Links
  Github Link
 
+ https://github.com/joshuapward2/password-generator-
+
  Deployed URL Link
 
  file:///Users/joshua.p.ward2/Desktop/new_pass_gen/password-generator/index.html
