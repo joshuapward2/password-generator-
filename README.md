@@ -18,4 +18,4 @@ Javascript
 
  Deployed URL Link
 
- file:///Users/joshua.p.ward2/Desktop/new_pass_gen/password-generator/index.html
+ https://joshuapward2.github.io/password-generator-/
